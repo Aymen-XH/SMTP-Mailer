@@ -1,0 +1,5 @@
+server:port:user:pass
+server:port:user:pass
+server:port:user:pass
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+you have to use your smtp or smtp list like this (delete this line)
