@@ -1,6 +1,6 @@
 # SMTP Mailer with SMTP Server
 
-This repository contains an executable SMTP Mailer that simplifies sending emails using an SMTP server. The mailer reads SMTP configuration from a text file and sends HTML-formatted emails using the provided credentials. Watch the [video tutorial](https://www.youtube.com/watch?v=VOklI4FHRdk) for a quick guide on how to use the mailer.
+This repository contains an executable SMTP Mailer that simplifies sending emails using an SMTP server. The mailer reads SMTP configuration from a text file and sends HTML-formatted emails using the provided credentials. Watch the [video tutorial](https://youtu.be/_zeS67_avTI) for a quick guide on how to use the mailer.
 
 ## Usage
 1. Prepare an HTML email template.
