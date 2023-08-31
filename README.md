@@ -13,8 +13,9 @@ This repository contains an executable SMTP Mailer that simplifies sending email
 
 4. Double-click SMTP Mailer v1.3.exe to run. The mailer will prompt you for:
 
-- the recipient list file (txt).
+- the mail From (Name).
 - the Subject of the email.
+- the recipient list file (txt).
 - the HTML email template file (html).
 - the SMTP configuration file (txt).
 
