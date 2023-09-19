@@ -1,5 +1,7 @@
 server:port:user:pass
 server:port:user:pass
 server:port:user:pass
-↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
-you have to use your smtp or smtp list like this (delete this line)
+
+you have to use your smtp or smtp list like this (delete this lines)
+example Line
+smtp.amazonaws.com:587:KFJjJKJhHjgh:54F55f45F4F
